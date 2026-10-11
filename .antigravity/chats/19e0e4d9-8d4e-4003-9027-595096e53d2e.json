@@ -4,5 +4,18 @@
   "createdAt": "2026-10-11T11:10:32.722Z",
   "filename": "19e0e4d9-8d4e-4003-9027-595096e53d2e.json",
   "geminiStarted": false,
-  "messages": []
+  "messages": [
+    {
+      "id": "8846ed51-776e-4693-bebb-df4e7858f05f",
+      "role": "user",
+      "content": "Que peut tu faire",
+      "status": "pending",
+      "model": "gemini-3.8-flash-high",
+      "client_type": "gemini-bridge",
+      "parent_message_id": null,
+      "created_at": "2026-10-11T11:11:26.023Z",
+      "sender": "ios",
+      "is_cancelled": false
+    }
+  ]
 }
